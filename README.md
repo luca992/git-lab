@@ -14,3 +14,6 @@ GitHub Account: aduvoisin13
 Lab: Wednesdays at 6pm
 
 ![alt text](octocat-de-los-muertos.jpg "OCTOCAT")
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
